@@ -34,7 +34,7 @@ def check_password():
     if "password_correct" not in st.session_state:
         # First run, show input for password.
         st.text_input(
-            "Password", type="password", on_change=password_entered, key="password"
+            "Mot de passe", type="password", on_change=password_entered, key="password"
         )
         return False
     elif not st.session_state["password_correct"]:
@@ -82,15 +82,17 @@ if check_password():
             st.markdown(message["content"])
 
     if prompt := st.chat_input("Quoi de neuf?"):
+        
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.markdown(prompt)
-
-        with st.chat_message("assistant"):
-            message_placeholder = st.empty()
-            full_response = ""
-            response = qa({"question": prompt})
-            message_placeholder.markdown(response["answer"])
-        st.session_state.messages.append(
-            {"role": "assistant", "content": response["answer"]}
-        )
+        with st.spinner("Loading..."):
+            with st.chat_message("assistant"):
+                
+                message_placeholder = st.empty()
+                full_response = ""
+                response = qa({"question": prompt})
+                message_placeholder.markdown(response["answer"])
+            st.session_state.messages.append(
+                {"role": "assistant", "content": response["answer"]}
+            )

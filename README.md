@@ -4,6 +4,8 @@ Ce projet est une interface Streamlit pour un chatbot utilisant le modèle GPT-3
 
 Son objectif est de répondre aux questions concernant la matière du cours. Le dossier `theorie` contient un exemple des fichiers sur lequel le chatbot repondra. Suffit de remplacer ces fichiers text par les votres pour que le chatbot y répond!
 
+L'application est hébergé sur le streamlit cloud. Pour plus d'information sur comment déploier l'appli, suivre les instructions sur [Deploy your app - Streamlit](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app)
+
 ## Prérequis
 
 - Python 3.x
@@ -52,7 +54,7 @@ Son objectif est de répondre aux questions concernant la matière du cours. Le 
     pip install -r requirements.txt
     ```
 
-6. Configurez votre clé API OpenAI en créant un fichier `secrets.toml` dans le dossier .streamlit et en y ajoutant:
+6. Configurez votre clé API OpenAI et mot de passe pour l'application en créant un fichier `secrets.toml` dans le dossier .streamlit et en y ajoutant:
 
     ```bash
     OPENAI_API_KEY=votre_clé_api
