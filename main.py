@@ -1,9 +1,9 @@
 # streamlit hack for sqlite
-__import__("pysqlite3")
-import sys
+# __import__("pysqlite3")
+# import sys
 
-sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
-import sqlite3
+# sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+# import sqlite3
 import openai
 import streamlit as st
 from langchain.chat_models import ChatOpenAI
@@ -20,9 +20,6 @@ load_dotenv()
 
 
 ###password section###
-# streamlit_app.py
-
-
 def check_password():
     """Returns `True` if the user had the correct password."""
 

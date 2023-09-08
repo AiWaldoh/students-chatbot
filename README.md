@@ -52,10 +52,11 @@ Son objectif est de répondre aux questions concernant la matière du cours. Le 
     pip install -r requirements.txt
     ```
 
-6. Configurez votre clé API OpenAI en créant un fichier `.env` et en y ajoutant:
+6. Configurez votre clé API OpenAI en créant un fichier `secrets.toml` dans le dossier .streamlit et en y ajoutant:
 
     ```bash
     OPENAI_API_KEY=votre_clé_api
+    password=votre_mot_de_passe
     ```
 
 ## Exécution
