@@ -1,0 +1,35 @@
+L’approche en cascade (« waterfall »)
+Le modèle en cascade est un processus séquentiel (non itératif) où on fait une étape à la fois en
+prévoyant ne pas avoir à revenir en arrière. Il existe des variantes du modèle, mais le processus se
+résume généralement par les 5 étapes illustrées à la figure suivante :
+Figure 2: Un modèle en cascade
+1. Requirements : Permet de complètement connaitre le problème à résoudre, déterminer toutes
+les spécifications, les contraintes. On cherche souvent à établir les engagements par écrits et
+par conséquent avoir une ébauche de planification des coûts et du temps.
+2. Design : Permets de choisir et faire le design d’une solution à implémenter. Toutes les parties
+prenantes (« Stakeholders ») s’entendent sur une solution à implémenter.
+3. Implémentation : Permets de faire l’implémentation du code, des modules et des composantes
+du système.
+4. Vérification : Permets de faire la vérification et l’assurance qualité du système. Cette étape
+valide que les spécifications ont été respectées.
+5. Livraison et Maintenance : Permets de livrer le système au client et offrir le support et la
+maintenance au besoin.
+Cette approche s’applique bien lorsqu’on veut construire un édifice ou un pont où les ingénieurs ont
+des années d’expérience et de données leur permettant de faire de meilleurs choix de design et de
+construction. Mais pour un projet génie logiciel, refaire un même projet peut être aussi simple que d’en
+faire une copie et d’y apporter les quelques différences voulues. Les projets de génie logiciel ont la
+généralement la caractéristique qu’ils n’ont jamais été implémentés avant.
+Voici quelques raisons que le modèle en cascade est souvent inadéquat pour des systèmes
+informatiques :
+1. « Les spécifications seront fixes » : il est faux de présumer que les spécifications seront
+complètes, claires et ne changeront pas. Pourtant :
+◦ Les besoins des usagers évoluent et changent
+◦ Le problème change
+◦ Les changements technologiques
+◦ Le marché change
+◦ Les spécifications ne peuvent pas être détaillées avec suffisamment de précision.
+2. « Nous allons avoir un design correct et complet avant de débuter » : le génie logiciel n’a pas encore
+évolué au point où un design peut être complet sans avoir des omissions, des imprécisions, de fausses
+suppositions ou des erreurs. »
+3. Le contrat ne changera pas : Toujours revenir sur le contrat établi au départ mène à un
+mécontentement.

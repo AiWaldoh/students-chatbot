@@ -1,0 +1,38 @@
+Pourquoi a-t-on besoin de génie logiciel?
+Les logiciels et les systèmes informatiques ont évolué en taille, en complexité, par leur mode de
+distribution et par la vitesse à laquelle on apporte des changements. Bref, on a déjà poussé au
+maximum les limites de ce qu’un programmeur seul ou une petite équipe dans un garage puisse
+produire.
+Il y a plusieurs façons qu’un projet de développement d’un système informatique peut échouer. Il y a
+plusieurs symptômes qui distinguent les projets qui échouent :
+• Une mauvaise compréhension des besoins de l’usager
+• Inhabileté de s’adapter avec le changement des spécifications
+• Des modules qui ne s’harmonisent pas bien ensemble
+• Des systèmes difficiles à maintenir ou à améliorer
+• La découverte tardive de bogues ou de fautes
+• Une qualité de logiciel très faible
+• Une performance d’exécution inacceptable
+• Un fonctionnement inefficace entre les membres d’équipes ce qui rend impossible de
+reconstruire qui a fait quoi, quand et pourquoi.
+• Un processus de « build-and-release » qui n’est pas fiable.
+On peut bien observer, comprendre et tenter de traiter ces symptômes, mais le problème ne disparaît
+pas. Par exemple la découverte tardive d’une spécification mal interprétée expose un problème bien
+plus grand. Bref, voici les causes possibles qui font échouer un projet informatique :
+• Gestion des spécifications improvisée
+• Communication ambiguë et imprécise
+• Architecture fragile
+• Incohérences non détectées entre les spécifications, les designs et les implémentations
+• Vérification logicielle insuffisante
+• Une complexité accablante
+• Évaluation subjective du statut de projet
+• Manque d’évaluation des risques
+• Propagation des changements non contrôlés
+• Manque d’automatisation
+Une approche génie logiciel nous permet de mettre en place de bonnes pratiques qui ainsi contribuera à
+éliminer les symptômes et produire des systèmes informatiques d’une façon plus prévisible.
+Dans ce cours, nous allons discuter surtout des méthodes agiles (les approches qui respectent l’agile
+manifesto). Ces méthodes sont des regroupements de pratiques de projets de développement en
+informatique. Les méthodes agiles sont considérées plus pragmatiques que d’autres méthodes plutôt
+traditionnelles. Elle implique les parties prenantes (« stakeholder ») tout au long du projet ce qui
+encourage l’esprit de collaboration. Les méthodes agiles sont à la fois considérées itératives,
+incrémentales et adaptatives.

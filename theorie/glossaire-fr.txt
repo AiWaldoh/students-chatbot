@@ -1,0 +1,22 @@
+Glossaire
+Activité : "Une unité de travail qu'un rôle exécute. Une activité peut être décomposée en étapes. Les activités produisent ou modifient des artefacts."
+Artefact : "Un morceau d'information qui est produit, modifié ou utilisé par un processus, définit un domaine de responsabilité et est soumis au contrôle des versions. Un artefact peut être un modèle, un élément de modèle ou un document."
+Backlog : Une liste d'éléments qui doivent encore être achevés. Il existe plusieurs types de Backlogs utilisés dans les méthodes agiles. Backlog produit, Backlog projet et Backlog itération.
+Build : Une version opérationnelle d'un système ou d'une partie d'un système qui démontre un sous-ensemble des capacités devant être fournies dans le produit final.
+Gestion des changements : L'activité de contrôle et de suivi des modifications apportées aux artefacts.
+Demande de changement (CR) : Une demande pour changer un artefact ou un processus. Le CR documente l'origine et l'impact du problème actuel, la solution proposée et son coût.
+Gestion de configuration : Un flux de travail de processus de support dont le but est d'identifier, définir et créer des éléments de base; contrôler les modifications et les versions de ces éléments; rapporter et enregistrer le statut des éléments et des demandes de modification; garantir l'exhaustivité, la cohérence et la correction des éléments; et contrôler le stockage, la manipulation et la livraison des éléments.
+Déploiement : Une discipline essentielle dans le processus d'ingénierie logicielle dont le but est de garantir une transition réussie du système développé vers ses utilisateurs. Cela comprend des artefacts tels que les supports de formation et les procédures d'installation.
+Discipline : Un regroupement logique de rôles, activités, artefacts et autres éléments de conseils dans la description d'un processus.
+Environnement : Une discipline de soutien dans le processus d'ingénierie logicielle dont le but est de définir et de gérer l'environnement dans lequel le système est développé; cela inclut les descriptions de processus, la gestion de la configuration et les outils de développement.
+Implémentation : Une discipline dans le processus d'ingénierie logicielle dont le but est d'implémenter et de tester unitairement les classes.
+Itération : Un planning de projet sera divisé en plusieurs itérations où le travail sera effectué qui fera évoluer lentement la solution entière au fil du temps. Les itérations sont gérées comme une Timebox avec des dates de début et de fin fixes.
+Release : Un sous-ensemble du produit final qui est l'objet d'une évaluation lors d'un jalon. Une release est une version exécutable stable du produit, accompagnée de tous les artefacts nécessaires pour utiliser cette version, tels que des notes de version ou des instructions d'installation. Une release peut être interne ou externe.
+Exigence : Une description d'une condition ou d'une capacité d'un système; soit dérivé directement des besoins des utilisateurs ou indiqué dans un contrat, une norme, une spécification ou tout autre document imposé formellement.
+Discipline des exigences : Une discipline essentielle dans le processus d'ingénierie logicielle dont le but est de définir ce que le système doit faire. L'activité la plus significative est de développer un modèle de cas d'utilisation.
+Risque : Une préoccupation en cours ou imminente qui a une probabilité significative d'affecter négativement le succès des principaux jalons.
+Rôle : "Une définition du comportement et des responsabilités d'un individu ou d'un ensemble d'individus travaillant ensemble en équipe."
+Sprint : Voir itération. C'est le terme utilisé par Scrum pour une itération.
+Partie prenante : Toute personne ou représentant d'une organisation qui a un enjeu dans le résultat d'un projet ou dont l'opinion doit être prise en compte. Une partie prenante peut être un utilisateur final, un acheteur, un entrepreneur, un développeur ou un chef de projet.
+Test : Une discipline essentielle dans le processus d'ingénierie logicielle dont le but est d'intégrer et de tester le système.
+Flux de travail : "La séquence d'activités réalisées dans une entreprise qui produit un résultat d'une valeur observable pour un acteur individuel de l'entreprise."

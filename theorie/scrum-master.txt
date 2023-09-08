@@ -1,0 +1,13 @@
+Le ScrumMaster
+
+Un des principe de Scrum est l’auto-organisation des équipe. On propose alors de ne pas avoir de chef
+d’équipe (« team lead »). Les responsabilités d’un traditionnelles d’un chef d’équipe ne disparaît pas
+pour autant. Certaines responsabilités sont données au Product Owner tandis que les autres sont auto-
+gérer par l’équipe.
+Le ScrumMaster a pour responsabilité essentielle d’aider l’équipe à appliquer Scrum et à l’adapter au
+contexte. Il a une grande influence sur la façon de travailler, sur le processus, comme le Product
+Owner en a une sur le produit. Ses responsabilités sont :
+• Veiller à la mise en application de Scrum en faisant la gestion des « Scrum meetings ».
+• Encourage l’équipe à apprendre et à progresser dans les pratiques d’ingénierie.
+• Faire en sorte d’éliminer les obstacles qui pourraient freiner l’avancement du projet.
+• Inciter l’équipe à devenir autonome

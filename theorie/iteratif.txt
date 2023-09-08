@@ -1,0 +1,24 @@
+1. « Les spécifications seront fixes » : il est faux de présumer que les spécifications seront
+complètes, claires et ne changeront pas. Pourtant :
+◦ Les besoins des usagers évoluent et changent
+◦ Le problème change
+◦ Les changements technologiques
+◦ Le marché change
+◦ Les spécifications ne peuvent pas être détaillées avec suffisamment de précision.
+2. « Nous allons avoir un design correct et complet avant de débuter » : le génie logiciel n’a pas encore
+évolué au point où un design peut être complet sans avoir des omissions, des imprécisions, de fausses
+suppositions ou des erreurs. »
+3. Le contrat ne changera pas : Toujours revenir sur le contrat établi au départ mène à un
+mécontentement.
+L’approche itérative
+L’approche itérative permet de répéter un processus plusieurs fois afin de raffiner, préciser et améliorer
+un produit à chacune des itérations. Cette approche permet de faire une révision périodique (pendant
+les itérations) des spécifications, du design, de l’implémentation, de la vérification.
+Attention, l’approche itérative est bien plus que répéter le modèle en cascade plusieurs fois. D’après le
+processus unifié, les itérations permettent de revenir sur les des artefacts afin d’y apporter des
+améliorations, mais il n’est pas attendu que tous les artefacts sont créés et toutes les activités soient
+mises en place dès la première itération. D’autant plus que l’on revient sur tous ceux-ci pendant les
+dernières itérations.
+Figure 3:Les itérations divisées par phase
+Nous allons mieux comprendre et visualiser ce qu’est une itération lorsqu’on étudiera les flux de travail
+(« workflows »)

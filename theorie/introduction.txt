@@ -1,0 +1,9 @@
+Introduction au génie logiciel
+« Le génie logiciel … est une science … qui étudie les méthodes de travail et les bonnes pratiques des
+« gens » qui développent des logiciels. Le génie logiciel s'intéresse en particulier aux procédures
+systématiques qui permettent d'arriver à ce que des logiciels de grande taille correspondent aux
+attentes du client, soient fiables, aient un coût d'entretien réduit et de bonnes performances tout en
+respectant les délais et les coûts de construction1. » fr.wikipedia.org/wiki/Génie_logiciel
+
+« Le développement de logiciel consiste à étudier, concevoir, construire, transformer, mettre au point,
+maintenir et améliorer des logiciels. »

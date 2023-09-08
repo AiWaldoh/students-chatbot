@@ -1,0 +1,139 @@
+Une approche Agile – « Unified Process »
+Le processus unifié, souvent référé RUP pour « Rational Unified Process » est une méthode agile.
+L’objectif d’y faire son étude est de développer un vocabulaire largement utilisé dans l’industrie qui
+réalise des projets informatiques.
+Un processus génie logiciel nous permet de décrire qui fait quoi, comment et quand. À partir de cette
+prémisse, on propose les définitions suivantes :
+• Rôle : qui
+• Activité : comment
+• Artefact : quoi
+• Flux de travail (« workflow ») : quand
+• Discipline : un contenant pour les 4 éléments précédents.
+Voir le glossaire pour les définitions complètes.
+Rôle
+Le concept de rôle définit les comportements et les responsabilités d’un individu ou un groupe
+d’individus. On décrit le comportement en termes d’activités que doit faire un rôle tandis qu’on définit
+les responsabilités par les artefacts que doit créer le rôle.
+Attention! Un rôle n’est pas un individu ou un titre d’emploi. Vous pourriez être demandé d’agir de
+gestionnaire de projet, d’architecte et de programmeur pendant le même jour.
+Voici une liste de rôles divisés en 6 catégories1 :
+Analyst Roles :
+• Business-Process
+Analyst
+• Business designer
+• System Analyst
+• Requirements Specifier
+Developer Roles :
+• Software Architect
+• Designer
+• User-Interface Designer
+• Capsule Designer
+• Database Designer
+• Implementer
+• Integerator
+Manager Roles :
+• Project Manager
+• Change Control Manager
+• Configuration Manager
+• Test Manager
+• Deployment Manager
+• Process Engineer
+• Management Reviewer
+Tester Roles :
+• Test Analyst
+• Test Designer
+• Tester
+Production and Support Roles :
+• System Administrator
+• Technical Writer
+• Graphic Artist
+Additional Roles :
+• Reviewer
+• Review Coordinator
+• Any Role
+1 Selon Rational Unified Process
+• Tool Specialist
+• Course Developer
+• Stakeholder
+Activité
+Les rôles sont donnés des activités qui déterminent le travail qu’ils doivent faire. Une activité est une
+unité de travail qu’un individu occupant un rôle peut être demandé de faire afin de produire un résultat
+pertinent au projet. Une activité doit avoir un objectif clair et précis tel que créer/modifier un artefact
+ou un modèle. Chaque activité est associée à un rôle spécifique.
+Artefact
+Les activités peuvent avoir des entrées et sorties appelées artefact. Un artefact est une pièce
+d’information produite, modifié ou utilisé par un processus. Les artefacts sont les composantes
+produites et utilisées par le projet. Un artefact peut être un modèle, un élément d’un modèle, un
+document, un code, un exécutable. D’autres approches génie logiciel se réfèrent à des artefacts comme
+des « work product », des « work units », des « deliverables », etc.
+Discipline
+Une discipline est un contenant utilisé pour organiser les activités d’un processus. Le processus unifié
+reconnaît neuf différentes disciplines qui sont divisées en six disciplines techniques et trois disciplines
+de support.
+Les disciplines techniques sont :
+Business Modeling
+• Comprendre la structure organisationnelle et la dynamique organisationnelle dans laquelle le
+système doit être déployé.
+• Comprendre les problèmes de l’organisation et identifier les potentielles améliorations.
+• S’assurer que les clients, les usagers et les développeurs ont une même compréhension des
+spécifications.
+• Transformer les spécifications du système afin de bien supporter l’organisation.
+Requirements
+• Établir et maintenir une entente avec les clients et les « stakeholders » sur ce que devrait faire le
+système et pourquoi.
+• Offrir aux développeurs du système une meilleure compréhension des spécifications.
+• Définir les frontières et les limitations du système.
+• Offrir la base pour la planification du contenu technique pour les itérations.
+• Offrir la base pour estimer les coûts et le temps de développement du système.
+Analysis and Design
+• Comprendre les spécifications set les transformer en design en choisissant les stratégies et
+modèles de développement appropriés.
+• Traduire et communiquer les spécifications du système afin de décrire comment y faire son
+implémentation.
+• Contribuer au développement d’une architecture robuste facile à comprendre qui permet
+d’évoluer avec le temps.
+Implémentation
+• Définir comment organiser le code en termes d’implémentation et de sous-système
+• Implémenter les classes et objets en termes de composantes (fichiers sources, fichiers binaires,
+exécutables, « assets », autres)
+• Faire et exécuter les tests unitaires des composantes
+• Intégrer dans un système exécutable le résultat des composantes produites par les autres
+membres de l’équipe.
+Test
+• Trouver et documenter les failles du système
+• Communiquer aux gestionnaires la qualité perçue du système
+• Évaluer les hypothèses et les interprétations faites dans les spécifications et le design du
+système avec des démonstrations concrètes
+• Valider que le système fonctionne tel que son design
+• Valider que les spécifications sont implémentées adéquatement
+Deployment
+• Testing du système dans son environnement final (beta test)
+• Emballage final du système pour livraison
+• Distribution du système
+• Installation du système
+• Formation des usagers et des vendeurs du système
+• Migration des systèmes existants ou la conversion des bases de données
+Les disciplines de support sont :
+Project Management
+• Offre un cadre de gestion spécifique aux projets informatiques,
+• Offre des lignes directrices pour la planification, la gestion des RH et le suivi des projets,
+• Offre un cadre de gestion des risques.
+Configuration and Change Management
+• Suivre et maintenir l’intégrité des composantes du projet pendant leur évolution
+• Établir des processus de gestion des changements
+• Maintenir les différentes versions des artefacts et connaître leur état
+• Maintenir une liste des responsables pour chacun des artefacts (Attention : Ne pas confondre
+avec le rôle du gestionnaire de projet qui doit lui assigner les tâches).
+Environment
+• Sélection et acquisition des outils
+• Installation et configuration des outils pour l’organisation
+• Configuration des processus
+• Amélioration des processus
+• Support technique au processus et aux outils
+Conclusion
+• Le processus unifié est basé sur trois entités fondamentales : rôles, activités et artefacts.
+• Les disciplines sont des regroupements naturels des activités, des rôles et des artefacts.
+• Un « workflow » relie les activités, les artefacts et les rôles en séquence afin de produire des
+résultats pertinents.
+• De plus, des lignes directrices, des gabarits et des mentors d’outils permettent de compléter le
+processus unifié en guidant le travail du praticien.

@@ -1,0 +1,21 @@
+Scrum – Une approche Agile
+Nous avons discuté que l’approche Agile nous permet d’apporter une meilleure valeur au clients et aux
+usagers. Le développement itératif permet également de réviser et modifier les priorités
+périodiquement.
+Scrum est une approche qui favorise des équipe auto-organisée qui nécessite peu de supervision sans
+toutefois dévier des procédures et des responsabilités qui leur sont prescrites. Bref3,
+• Scrum sert à dévelpper des produits, en quelques mois tout au plus. Les fonctionnalités
+souhaitées sont collectées dans un « product backlog » et classées par priorités. C’est le
+« Product owner » qui est responsable de la bonne tenue de ce « backlog ».
+• Une version (release) est produite par une série d’itérations appelées des sprints. Le contenu
+d’un sprint est défini par l’équipe, avec le Product Owner, en tenant compte des priorités et de
+la capacité de l’équipe. À partir de ce contenu, l’équipe identifie les tâches nécessaires et
+s’engage pour réaliser les fonctionnalités sélectionnées pour le sprint.
+3 Claude Aubry 2009. Scrum – le guide pratique de la méthode agile la plus populaire 2e édition. Dunod
+• Pendant un sprint, des points de contrôle sur le déroulement des tâches sont effectués lors des
+scrums. Cela permet au ScrumMaster, l’animateur chargé de faire appliquer Scrum, de
+déterminer l’avancement par rapport aux engagements et d’appliquer, avec l’équipe, des
+ajustements pour assurer le succès du sprint.
+• À la fin de chaque sprint, l’équipe obtient un produit partiel (qui s’enrichit d’un nouveau
+incrément à chaque sprint) qui fonctionne : il est potentiellement livrable. Son évaluation et le
+feedback récolté permettent d’ajuster le backlog pour le sprint suivant.

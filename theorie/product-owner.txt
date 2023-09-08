@@ -1,0 +1,15 @@
+Le Product Owner
+
+Le product owner a été défini par Scrum afin de s’assurer que le travail fait apporte une valeur au
+produit, conséquemment aux utilisateurs. Les responsabilités principales du product owner sont :
+• Fournir une vision partagée : Les membres de l’équipe et tous les stakeholders doivent
+partager la même vision. C’est le rôle du product owner d’assurer cette vision.
+• Définir le contenu : Doit identifier les fonctionnalités requises et les maintenir dans une liste
+qu’on appelle le backlog de produit. Conséquemment, il doit fournir les conditions à vérifier
+afin de s’assurer que les spécifications sont respectés. Ça nous permet de définir les tests
+d’acceptation. « Acceptance test ».
+• Planifier la vie du produit : Le product owner doit également définir l’ordre dans lequel les
+parties du produit seront développées. Il gère les priorités et communique aux membres de
+l’équipe les fonctionnalités qui doivent être développées.
+Le product owner n’a pas d’autorité formel sur les autres membres de s’en équipe. Il a toutefois une
+influence importance sur le produit à réalisé

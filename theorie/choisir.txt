@@ -1,0 +1,26 @@
+Afin de choisir, on peut considérer les trois aspects suivants :
+• La nature du projet nécessite-t-elle des rétroactions fréquentes?
+• Est-ce que « business » voudra recevoir un livrable partiel? (Soit en terminant le projet plus tôt
+ou en utilisant des versions du produit avant qu’il soit complètement livré?)
+• Est-ce que le projet peut bénéficier d’une régression continue
+
+L’approche itérative... :
+◦ … favorise et encourage la rétroaction tout au long du développement.
+◦ … est idéal lorsque les limites et l’étendu d’un projet n’est pas bien établi.
+◦ … minimise les risques reliés aux changements.
+
+• L’approche par incrément… :
+◦ Améliore la morale et motive l’équipe de développement.
+◦ Offre un meilleur visibilité du progrès.
+◦ Améliore la qualité avec la vérification à chaque itération et de manière régressive.
+◦ Réduit les risques de découvrir des failles tard dans le projet.
+◦ Offre la possibilité de réviser l’étendu et les limites d’un projet
+◦ Offre la possibilité de terminer un projet plus tôt que prévu.
+◦ Permet de réviser l’approche de développement périodiquement.
+◦ Permet de réduire tôt dans le projet les risques techniques reliés à l’architecture.
+◦ Chaque incrément offre une valeur et peut être un produit livrable.
+
+• L’approche Agile… :
+◦ permet de réduire les risques de livrer le mauvais produit (« requirements »)
+◦ Permet de prédire et contrôler le budget et les échéanciers
+◦ Permet d’établir une relation de confiance avec le client

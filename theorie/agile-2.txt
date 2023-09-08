@@ -1,0 +1,50 @@
+L’approche Agile
+Le terme agile est apparu à partir du « Agile Manifesto ». (agilemanifesto.org/)
+Ce manifeste regroupe un ensemble de valeurs et de principes.
+Les valeurs :
+• Les individus et leurs interactions plus que les processus et les outils
+• Des logiciels opérationnels plus qu’une documentation exhaustive
+• La collaboration avec les clients plus que la négociation contractuelle
+• L’adaptation au changement plus que le suivi d’un plan
+http://agilemanifesto.org/iso/fr/manifesto.html
+12 principes sous-jacents :
+• Notre plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement des
+fonctionnalités à grande valeur ajoutée.
+• Accueillez positivement les changements de besoins, même tard dans le projet. Les processus
+Agiles exploitent le changement pour donner un avantage compétitif au client.
+• Livrez fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques
+mois et une préférence pour les plus courts.
+• Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble
+quotidiennement tout au long du projet.
+• Réalisez les projets avec des personnes motivées. Fournissez-leur l’environnement et le soutien
+dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés.
+• La méthode la plus simple et la plus efficace pour transmettre de l’information à l'équipe de
+développement et à l’intérieur de celle-ci est le dialogue en face à face.
+• Un logiciel opérationnel est la principale mesure d’avancement.
+• Les processus Agiles encouragent un rythme de développement soutenable. Ensemble, les
+commanditaires, les développeurs et les utilisateurs devraient être capables de maintenir
+indéfiniment un rythme constant.
+• Une attention continue à l'excellence technique et à une bonne conception renforce l’Agilité.
+• La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle.
+• Les meilleures architectures, spécifications et conceptions émergent d'équipes auto organisées.
+• À intervalles réguliers, l'équipe réfléchit aux moyens de devenir plus efficace, puis règle et
+modifie son comportement en conséquence.
+http://agilemanifesto.org/iso/fr/principles.html
+Agile n’est pas une méthode ni un processus de développement. C’est une approche qui peut être mise
+en œuvre de plusieurs différentes façons. Unified Process, Extreme programming (XP), Feature-driven
+development (FDD), Lean software development, Scrum sont que quelques exemples de méthodes
+Agile.
+Plusieurs des principes avancés par le agilemanifesto.org existaient bien avant son apparition. Mais
+depuis qu’ils sont devenus formels, d’autres pratiques sont apparues et sont devenues populaires, et
+presque essentielles à tout projet Agile2 :
+• Avoir un « backlog » de produit tenant compte des priorités,
+• Suivre l’avancement des projets par la tenue d’une réunion quotidienne,
+• écrire les tests avant d’écrire le code,
+• pratiquer, de temps en temps, le travail en binôme, une technique qui consiste à avoir deux
+personnes derrière un seul écran pour partager les connaissances.
+Agile repose sur le principe que son approche est itérative, incrémentale et adaptative. À la fin d’un
+« sprint »,
+• Un incrément de produit est réalisé,
+• Le « feedback » obtenu permet de perfectionner l’incrément dans un prochain Sprint.
+Bref, un « sprint » est une itération qui produit un nouvel incrément. Et qui permet d’enrichir un
+incrément obtenu dans un sprint précédent

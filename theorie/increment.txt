@@ -1,0 +1,7 @@
+L’approche par incrément
+Une approche par incrément permet de mettre en évidence l’accroissement d’un produit obtenu à la fin
+de chaque incrément. Les termes incrément et itération deviendront interchangeables, mais itération est
+habituellement le plus utilisé. Les approches basées sur Scrum appellent une itération/incrément un
+« sprint ».
+Un processus incrémental permet de construire un produit un morceau à la fois où chaque morceau
+ajoute une partie au produit existant.

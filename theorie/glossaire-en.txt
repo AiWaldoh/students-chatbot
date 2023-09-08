@@ -1,0 +1,49 @@
+Glossaire
+Activity: “A unit of work that a role performs. An activity may be decomposed into steps. Activities
+produce or modify artifacts.”
+Artifact: “A piece of information that is produced, modified, or used by a process, defines an area of
+responsibility, and is subject to version control. An artifact can be a model, a model element, or a
+document.
+Backlog : A list of items that have still to be completed. There are several types of Backlogs used in
+agile methods. Product Backlog, Project Backlog and Iteration Backlog.
+Build : An operational version of a system or part of a system that demonstrates a subset of the
+capabilities to be provided in the final product.
+Change management: The activity of controlling and tracking changes to artifacts.
+Change Request (CR) : A request to change an artifact or process. Documented in the CR is
+information on the origin and impact of the current problem, the proposed solution, and its cost.
+Configuration management: A supporting process workflow whose purpose is to identify, define, and
+baseline items; control modifications and releases of these items; report and record status of the items
+and modification requests; ensure completeness, consistency, and correctness of the items; and control
+storage, handling , and delivery of the items.
+Deployment: A core discipline in the software engineering process whose purpose is to ensure a
+successful transition of the developed system to its users. Included are artifacts such as training
+materials and installation procedures.
+Discipline: A logical grouping of roles, activities, artifacts, and other elements of guidance in the
+description of a process.
+Environment: A supporting discipline in the software engineering process whose purpose is to define
+and manage the environment in which the system is being developed; includes process descriptions,
+configuration management, and development tools.
+Implementation: A discipline in the software engineering process whose purpose is to implement and
+unit test the classes.
+Iteration : A project schedule will be divided into several Iterations wherein work will be performed
+that will slowly evolve the entirer solution over time. Iterations are managed as a Timebox with fixed
+start and end dates.
+Release : A subset of the end product that is the object of evaluation at a milestone. A release is a
+stable, executable version of the product, together with any artifacts necessary to use this release, such
+as release notes or installation instructions. A release can be internal or external.
+Requirement: A description of a condition or capability of a system; either derived directly from user
+needs or stated in a contract, standard, specification, or other formally imposed document.
+Requirement discipline: A core discipline in the software engineering process whose purpose is to
+define what the system should do. The most significant activity is to develop a use-case model.
+Risk : An ongoing or impending concern that has a significant probability of adversely affecting the
+success of major milestones.
+Role: “A definition of the behavior and responsibilities of an individual or a set of individuals working
+toether as a team.”
+Sprint : See iteration. It is the word use by Scrum for an iteration.
+Stakeholder: Any person or representative of an organization who has a stake in the outcome of a
+project or whose opinion must be accommodated. A stakeholder can be an end user, a purchaser, a
+contractor, a developer, or a project manager.
+Test: A core discipline in the software engineering process whose purpose is to integrate and test the
+system.
+Workflow: “The sequence of activities performed in a business that produces a result of observable
+value to an individual actor of the business.

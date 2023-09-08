@@ -1,0 +1,21 @@
+fr.wikipedia.org/wiki/Développement_de_logiciel
+Historique
+« Vers la fin des années 1960, un constat se fait jour : le développement des grands projets
+informatiques est de moins en moins bien maîtrisé. Les estimations de coût et de délai de production se
+révèlent inférieures à la réalité, souvent d’un facteur de 2 à 4. Les équipes de programmeurs sont
+confrontées à des problèmes de communication que l'encadrement peine à résoudre. Enfin, le logiciel
+produit ne répond pas toujours aux attentes ; il faut dire que les spécifications ne capturent pas
+toujours les besoins de manière adéquate, faute d’outils et de méthodes adaptés. La tâche de
+maintenance, qui devrait normalement consister à adapter le logiciel à l’évolution des besoins, vise
+surtout à corriger ses fautes, sans toujours éviter d’en introduire de nouvelles. »
+interstices.info/jcms/ni_79198/la-naissance-du-genie-logiciel
+Un des premiers modèles de génie logiciel est le modèle en cascade (« waterfall »).
+
+L’objectif de cette approche est d’identifier les besoins pour chacune des phases du projet et fixer des
+points de contrôle pendant le projet. Chacune des phases est attendue de produire un résultat qui sert
+d’évaluer et procéder à la phase suivante.
+
+Ce modèle idéaliste présume que peu de changements ou d’ajouts vont se faire pendant le projet. Les
+retours aux phases précédentes deviennent de plus en plus couteux à mesure que le projet progresse.
+De plus, la livraison du logiciel se fait très tard dans le cycle de vie et ne favorise pas une collaboration
+ni une rétroaction proactive.
