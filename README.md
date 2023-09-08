@@ -1,6 +1,8 @@
 # Chatbot basé sur Streamlit et OpenAI
 
-Ce projet est une interface Streamlit pour un chatbot utilisant le modèle GPT-3 d'OpenAI et une suite d'outils fournis par `langchain`.
+Ce projet est une interface Streamlit pour un chatbot utilisant le modèle GPT-3-5 d'OpenAI et une suite d'outils fournis par `langchain`.
+
+Son objectif est de répondre aux questions concernant la matière du cours. Le dossier `theorie` contient un exemple des fichiers sur lequel le chatbot repondra. Suffit de remplacer ces fichiers text par les votres pour que le chatbot y répond!
 
 ## Prérequis
 
@@ -13,13 +15,13 @@ Ce projet est une interface Streamlit pour un chatbot utilisant le modèle GPT-3
 1. Clonez le dépôt.
 
     ```bash
-    git clone lien_vers_votre_dépôt
+    git clone https://github.com/AiWaldoh/students-chatbot.git
     ```
 
 2. Naviguez vers le répertoire du projet:
 
     ```bash
-    cd chemin_vers_le_dossier_du_projet
+    cd student-chatbot
     ```
 
 3. Installez `venv` (si ce n'est pas déjà fait) et créez un nouvel environnement virtuel :
@@ -61,4 +63,4 @@ Ce projet est une interface Streamlit pour un chatbot utilisant le modèle GPT-3
 Lancez l'application Streamlit en utilisant:
 
 ```bash
-streamlit run votre_fichier.py```
+streamlit run main.py```
