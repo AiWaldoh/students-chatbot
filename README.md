@@ -63,4 +63,5 @@ Son objectif est de répondre aux questions concernant la matière du cours. Le 
 Lancez l'application Streamlit en utilisant:
 
 ```bash
-streamlit run main.py```
+streamlit run main.py
+```
