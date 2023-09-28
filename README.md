@@ -1,4 +1,4 @@
-# Chatbot basé sur Streamlit et OpenAI
+# Chatbot basé sur Streamlit et OpenAI!
 
 Ce projet est une interface Streamlit pour un chatbot utilisant le modèle GPT-3-5 d'OpenAI et une suite d'outils fournis par `langchain`.
 
